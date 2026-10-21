@@ -8,7 +8,7 @@ topics:
       - i guess something more but i was actually not there. 
 learnings:  
       - They was adjusting the blinking speed of a Light 
-      - Watch out to deplug your microcontroller before changing something
+      - And someone told me to watch out to deplug your microcontroller before changing something
 code:
       - void setup() {
           pinMode(13, OUTPUT);
