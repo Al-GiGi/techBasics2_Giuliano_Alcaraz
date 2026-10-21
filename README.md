@@ -1,8 +1,8 @@
 # techBasics2_Giuliano_Alcaraz
 
-Hello Hello Hello
+⸜(｡˃ ᵕ ˂ )⸝♡ Hello Hello Hello ⸜(｡˃ ᵕ ˂ )⸝♡
 
-This is my class repository for my Tech Basics II ^^
+⸜(｡˃ ᵕ ˂ )⸝♡ This is my class repository for my Tech Basics II ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⡇⠈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
 ⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -35,4 +35,6 @@ This is my class repository for my Tech Basics II ^^
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢀⣀⣀⠀⠘⠻⠿⢿⣿⡆⠀⠹⢿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠁⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣄⣀⣀⣀⣀⣀⣀⠀⠀⠀⠉⠉⠉⠁⠀⣀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
 
-You are welcome LoL⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⸜(｡˃ ᵕ ˂ )⸝♡⸜(｡˃ ᵕ ˂ )⸝♡You are Welcome♡⸜(｡˃ ᵕ ˂ )⸝♡⸜(｡˃ ᵕ ˂ )⸝
+
+                      
